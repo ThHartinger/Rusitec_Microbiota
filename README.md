@@ -1,5 +1,3 @@
-# Rusitec microbiota data
-
 Study title: Differently treated alfalfa silages affect the in vitro ruminal microbiota composition
 
 Author Affiliations:
