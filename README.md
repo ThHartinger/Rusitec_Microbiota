@@ -9,6 +9,8 @@ Thomas Hartinger1, Joan E. Edwards2, Ruth Gomez Exposito2, Hauke Smidt2, Cajo J.
 2Laboratory of Microbiology, Department of Agrotechnology and Food Sciences, Wageningen University and Research, Wageningen, Netherlands
 3Biometrics, Wageningen University and Research, Wageningen, Netherlands
 
+
+
 This repository contains codes and files for analysis done in the research article by Hartinger T, et al (under review) Differently treated alfalfa silages affect the in vitro ruminal microbiota composition. Front. Microbiol.
 
 In case of queries contact: T.Hartinger@uni-bonn.de
