@@ -1,4 +1,4 @@
-Study title: Differently treated alfalfa silages affect the in vitro ruminal microbiota composition
+Study title: Differently pre-treated alfalfa silages affect the in vitro ruminal microbiota composition
 
 Author Affiliations:
 Thomas Hartinger1, Joan E. Edwards2, Ruth Gomez Exposito2, Hauke Smidt2, Cajo J.F. ter Braak3, Nina Gresner1, Karl-Heinz Südekum1
