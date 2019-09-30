@@ -133,7 +133,3 @@ mock42	mock42	mock42	mock	no	yes	yes	TTGACTAG	2	p																													mo
 mock41	mock41	mock41	mock	no	yes	yes	TTGACTAG	1	p																													mock41
 mock32	mock32	mock32	mock	no	yes	yes	TTAGGATG	2	p																													mock32
 mock31	mock31	mock31	mock	no	yes	yes	TTAGGATG	1	p																													mock31
-mock22	mock22	mock22	mock	no	yes	yes	TTGCATAT	2	p																													mock22
-mock21	mock21	mock21	mock	no	yes	yes	TTGCATAT	1	p																													mock21
-mock12	mock12	mock12	mock	no	yes	yes	TTGATCCA	2	p																													mock12
-mock11	mock11	mock11	mock	no	yes	yes	TTGATCCA	1	p																													mock11
